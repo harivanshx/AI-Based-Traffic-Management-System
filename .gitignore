@@ -131,7 +131,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+Model Training Exp\Accident Detection\data
 
+Model Training Exp\Helmet_Detection\data
+Model Training Exp\Accident Detection\data
+Model Training Exp\Helmet_Detection\runs
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -201,3 +205,7 @@ archive (4)/Talaimari/Weast.mp4
 archive (4)/Vodra/North.mp4
 archive (4)/Vodra/South.mp4
 archive (4)/Vodra/weast.mp4
+Model Training Exp\Accident Detection\data
+Model Training Exp\Accident Detection\data\test
+Model Training Exp\Accident Detection\data\train
+Model Training Exp\Accident Detection\models
