@@ -2,6 +2,12 @@
 
 An intelligent traffic management solution using YOLOv8 computer vision for real-time vehicle detection, traffic density analysis, and automated signal control.
 
+## access this project at 
+http://surakshatrafficmanagement.online/
+or at 
+http://13.127.235.110
+
+
 ## Features
 
 - **Vehicle Detection**: Real-time detection and tracking of vehicles using YOLOv8
